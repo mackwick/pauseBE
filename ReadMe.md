@@ -3,7 +3,7 @@
 - **Mackenzie Wicker - General Assembly Capstone Project**
 - **Description: A web application for tracking your daily meditation.**
 
-- GitHub Url:
+- GitHub Url: https://github.com/mackwick/pauseBE
 - Deployed Backend:
 - Trello Board: https://trello.com/b/uMhHcCwV/pause-ga-capstone-project
 
@@ -32,4 +32,4 @@
 
 ## ERD (Entity Relationship Diagram)
 
-![ERD](https://i.imgur.com/2CZGJvr.jpeg)
+![ERD](https://i.imgur.com/9zXINv9.jpeg)
