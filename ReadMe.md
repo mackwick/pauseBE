@@ -4,7 +4,7 @@
 - **Description: A web application for tracking your daily meditation.**
 
 - GitHub Url: https://github.com/mackwick/pauseBE
-- Deployed Backend:
+- Deployed Backend: https://pausebe.onrender.com/pause
 - Trello Board: https://trello.com/b/uMhHcCwV/pause-ga-capstone-project
 
 ## Dependencies
@@ -13,7 +13,9 @@
 - Node
 - TypeScript
 - PostgresQL (Neon.Tech)
-- ETC TBD
+- Cors
+- Dotenv
+- Prisma
 
 ## Route Map
 
