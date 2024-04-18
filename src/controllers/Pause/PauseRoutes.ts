@@ -15,6 +15,15 @@ pauseRouter.get("/", async (req: Request, res: Response) => {
 });
 
 //DELETE
+pauseRouter.delete("/:id", async (req: Request, res: Response) => {
+  try {
+    const id: number = parseInt(req.params.id);
+    const deletedPause = await PauseService.deletePause(id);
+    return res.json("That pause is removed from your record.");
+  } catch (error: any) {
+    return res.json(error.message);
+  }
+});
 
 //CREATE
 pauseRouter.post("/", async (req: Request, res: Response) => {
