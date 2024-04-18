@@ -12,7 +12,7 @@
 - Express
 - Node
 - TypeScript
-- PostgresQL
+- PostgresQL (Neon.Tech)
 - ETC TBD
 
 ## Route Map
