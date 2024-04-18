@@ -27,6 +27,15 @@ pauseRouter.post("/", async (req: Request, res: Response) => {
 });
 
 //UPDATE
+pauseRouter.put("/:id", async (req: Request, res: Response) => {
+  const id: number = parseInt(req.params.id);
+  try {
+    const updatedPause = await PauseService.updatePause(req.body, id);
+    return res.json(updatedPause);
+  } catch (error: any) {
+    return res.json(error.message);
+  }
+});
 
 //SHOW
 pauseRouter.get("/:id", async (req: Request, res: Response) => {
