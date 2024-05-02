@@ -1,11 +1,12 @@
 # Pause: A Meditation App
 
-- **Mackenzie Wicker - General Assembly Capstone Project**
+**Mackenzie Wicker - General Assembly Capstone Project**
+
 - **Description: A web application for tracking your daily meditation.**
 
-- GitHub Url: https://github.com/mackwick/pauseBE
-- Deployed Backend: https://pausebe.onrender.com/pause
-- Trello Board: https://trello.com/b/uMhHcCwV/pause-ga-capstone-project
+- **GitHub Url:** https://github.com/mackwick/pauseBE
+- **Deployed Backend:** https://pausebe.onrender.com/pause
+- **Trello Board:** https://trello.com/b/uMhHcCwV/pause-ga-capstone-project
 
 ## Dependencies
 
